@@ -7,7 +7,6 @@ I'm a software engineer team leader at [Mega Trust](https://megatrust.net), Goog
 - 🌱 I’m currently curious about mobile and backend development.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [C++](https://www.cplusplus.com/), [Python](https://www.python.org/).
-- ⚡ Fun fact: I have three hearts like octopuses.
 - 📫 How to reach me:
 
 	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/tarekalabd)
