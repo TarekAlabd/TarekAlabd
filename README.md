@@ -63,10 +63,7 @@ With over **10 years of experience** in software development, I specialize in bu
 
 <p align="center">
   <a href="https://github.com/tarekalabd">
-    <img src="https://github-readme-stats.vercel.app/api?username=tarekalabd&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Tarek's GitHub Stats" />
-  </a>
-  <a href="https://github.com/tarekalabd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekalabd&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=tarekalabd&theme=tokyonight&hide_border=true&background=0D1117" alt="Tarek's GitHub Streak" />
   </a>
 </p>
 
